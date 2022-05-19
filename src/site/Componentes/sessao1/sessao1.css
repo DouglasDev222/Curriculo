@@ -1,0 +1,60 @@
+#douglas {
+    color: aqua;
+    font: bold 72px montserrat;
+
+    /*Centralizar*/
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    /*Centralizar*/
+
+    margin-left: 5%;
+}
+
+#santos{
+    color:#a6a6a6;
+    font: normal 60px montserrat;
+
+    /*Centralizar*/
+    position: absolute;
+    top: 50%;
+    margin-top: -75px;
+    /*Centralizar*/
+
+    margin-left: 5%;
+}
+#deve{
+    color:#000000;
+    font: normal 20px montserrat;
+
+    /*Centralizar*/
+    position: absolute;
+    top: 50%;
+    margin-top: 70px;
+    /*Centralizar*/
+
+    margin-left: 5%;
+}
+
+
+
+
+#div1{
+    background-color: #fbfbfb;
+    height: 500px;
+}
+#div2{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    position: relative;
+}
+
+#imgperfil {
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 30%;
+    width: 15em;
+    
+}

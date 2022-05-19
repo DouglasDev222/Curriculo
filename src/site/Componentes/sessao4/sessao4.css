@@ -1,0 +1,25 @@
+.hconhe {
+    margin-top: 15px; 
+    text-align: right ; 
+    margin-right: 30px; 
+    color: rgb(65, 65, 65);
+}
+.divconhe {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 25px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    
+}
+.divaltura {
+    height: 400px;
+    background-color: #fbfbfb;
+}
+.display-inline {
+    display: inline-block;
+}
+
+.ncolor {
+    color: aqua;
+}

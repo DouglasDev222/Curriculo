@@ -1,0 +1,31 @@
+.divmain {
+    background-color: white;
+}
+.divmain2sobremim {
+    background-color: #f8f8f8;
+    height: 350px;
+}
+
+.hsobremim {
+    margin-top: 50px; 
+    text-align: right ; 
+    margin-right: 30px; 
+    color: rgb(65, 65, 65);
+}
+
+.psobremim {
+    text-align: justify ; 
+    margin-top: 50px; 
+    margin-right: 30px; 
+    color: rgb(57, 57, 57);
+}
+/*text-align: justify px; margin-right: 30px; color: rgb(57, 57, 57);*/
+
+.divsobremim {
+    background-color: #fcfcfc;
+    display: inline-block
+}
+.divsobremim1 {
+    background-color: #f8f8f8;
+    display: inline-block
+}

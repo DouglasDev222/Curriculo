@@ -1,0 +1,13 @@
+
+.info {
+    display: inline-block;
+}
+.infotext {
+    text-align: left;
+}
+.divmain {
+    background-color: rgb(255, 255, 255);
+}
+.divmain2 {
+    background-color: #fbfbfb;
+}
