@@ -1,3 +1,1 @@
-Meu Curriculo ;-;
-
-.....oi
+Currículo em construção
